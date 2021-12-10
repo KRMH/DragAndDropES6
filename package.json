@@ -1,0 +1,24 @@
+{
+  "name": "draganddrop",
+  "version": "1.0.0",
+  "description": "Drag and Drop Udemy TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRMHACTEOS/DragAndDrop.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Training",
+    "Udemy"
+  ],
+  "author": "Kristel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KRMHACTEOS/DragAndDrop/issues"
+  },
+  "homepage": "https://github.com/KRMHACTEOS/DragAndDrop#readme"
+}
